@@ -1,1 +1,1 @@
-# medical_insurance_premium_prediction
+# Project 1: medical_insurance_premium_prediction
